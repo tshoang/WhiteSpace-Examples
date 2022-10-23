@@ -5,7 +5,6 @@ The program will ask user for an input number and print out the Fibonacci number
 
 This version of the program, return the Fibonacci numbers starting from 1, 2, ...
 
-|-----|--------------|
 | Input | Expected output |
 |-----|--------------|
 | 1 | 1 |
@@ -14,6 +13,5 @@ This version of the program, return the Fibonacci numbers starting from 1, 2, ..
 | 4 | 5 |
 | 5 | 8 |
 | 6 | 13 |
-|-----|--------------|
 
 *Contributor: tshoang*
